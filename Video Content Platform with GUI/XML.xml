@@ -1,0 +1,18 @@
+<?xml version="1.0"?><Users>
+	<User>	<Name>Merve</Name>
+	<password>789</password>
+	<followers>Eda</followers>
+	<Watchlist></Watchlist>
+</User>
+	<User>	<Name>Huri</Name>
+	<password>456</password>
+	<followers>Eda</followers>
+	<Watchlist></Watchlist>
+</User>
+	<User>	<Name>Eda</Name>
+	<password>123</password>
+	<following>Merve</following>
+	<following>Huri</following>
+	<Watchlist></Watchlist>
+</User>
+</Users>
